@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Ant Wiser&#39;s Blog</title>
-    <link>/publication/</link>
-      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://antwiser.github.io/publication/</link>
+      <atom:link href="https://antwiser.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://antwiser.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
-      <link>/publication/</link>
+      <link>https://antwiser.github.io/publication/</link>
     </image>
     
     <item>
       <title>MICER: A Pre-trained Encoder-Decoder Architecture for Molecular Image Captioning</title>
-      <link>/publication/10-1093-bioinformaticsbtac-545/</link>
+      <link>https://antwiser.github.io/publication/10-1093-bioinformaticsbtac-545/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/10-1093-bioinformaticsbtac-545/</guid>
+      <guid>https://antwiser.github.io/publication/10-1093-bioinformaticsbtac-545/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ABC-Net: a divide-and-conquer based deep learning architecture for SMILES recognition from molecular images</title>
-      <link>/publication/10-1093-bibbbac-033/</link>
+      <link>https://antwiser.github.io/publication/10-1093-bibbbac-033/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/10-1093-bibbbac-033/</guid>
+      <guid>https://antwiser.github.io/publication/10-1093-bibbbac-033/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DDInter: an online drug–drug interaction database towards improving clinical decision-making and patient safety</title>
-      <link>/publication/10-1093-nargkab-880/</link>
+      <link>https://antwiser.github.io/publication/10-1093-nargkab-880/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/10-1093-nargkab-880/</guid>
+      <guid>https://antwiser.github.io/publication/10-1093-nargkab-880/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MG-BERT: leveraging unsupervised atomic representation learning for molecular property prediction</title>
-      <link>/publication/10-1093-bibbbab-152/</link>
+      <link>https://antwiser.github.io/publication/10-1093-bibbbab-152/</link>
       <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/10-1093-bibbbab-152/</guid>
+      <guid>https://antwiser.github.io/publication/10-1093-bibbbab-152/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ADMETlab 2.0: an integrated online platform for accurate and comprehensive predictions of ADMET properties</title>
-      <link>/publication/xiong-2021-admetlab/</link>
+      <link>https://antwiser.github.io/publication/xiong-2021-admetlab/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/xiong-2021-admetlab/</guid>
+      <guid>https://antwiser.github.io/publication/xiong-2021-admetlab/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mining microbe--disease interactions from literature via a transfer learning model</title>
-      <link>/publication/wu-2021-mining/</link>
+      <link>https://antwiser.github.io/publication/wu-2021-mining/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/wu-2021-mining/</guid>
+      <guid>https://antwiser.github.io/publication/wu-2021-mining/</guid>
       <description></description>
     </item>
     
