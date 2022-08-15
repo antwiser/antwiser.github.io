@@ -5,7 +5,7 @@
     <link>https://antwiser.github.io/publication/</link>
       <atom:link href="https://antwiser.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://antwiser.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -13,22 +13,51 @@
     </image>
     
     <item>
-      <title>An example conference paper</title>
-      <link>https://antwiser.github.io/publication/example/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://antwiser.github.io/publication/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>MICER: A Pre-trained Encoder-Decoder Architecture for Molecular Image Captioning</title>
+      <link>https://antwiser.github.io/publication/10-1093-bioinformaticsbtac-545/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://antwiser.github.io/publication/10-1093-bioinformaticsbtac-545/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ABC-Net: a divide-and-conquer based deep learning architecture for SMILES recognition from molecular images</title>
+      <link>https://antwiser.github.io/publication/10-1093-bibbbac-033/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://antwiser.github.io/publication/10-1093-bibbbac-033/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DDInter: an online drug–drug interaction database towards improving clinical decision-making and patient safety</title>
+      <link>https://antwiser.github.io/publication/10-1093-nargkab-880/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://antwiser.github.io/publication/10-1093-nargkab-880/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MG-BERT: leveraging unsupervised atomic representation learning for molecular property prediction</title>
+      <link>https://antwiser.github.io/publication/10-1093-bibbbab-152/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://antwiser.github.io/publication/10-1093-bibbbab-152/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ADMETlab 2.0: an integrated online platform for accurate and comprehensive predictions of ADMET properties</title>
+      <link>https://antwiser.github.io/publication/xiong-2021-admetlab/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://antwiser.github.io/publication/xiong-2021-admetlab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mining microbe--disease interactions from literature via a transfer learning model</title>
+      <link>https://antwiser.github.io/publication/wu-2021-mining/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://antwiser.github.io/publication/wu-2021-mining/</guid>
+      <description></description>
     </item>
     
   </channel>
