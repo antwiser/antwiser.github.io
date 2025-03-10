@@ -7,7 +7,7 @@
         {%- capture avatar_url -%}
           {% include media-url.html src=site.avatar %}
         {%- endcapture -%}
-        <img src="{{- avatar_url -}}" width="112" height="112" alt="avatar" onerror="this.style.display='none'">
+        <img src="{{- avatar_url -}}" width="150" height="150" alt="avatar" onerror="this.style.display='none'">
       {%- endif -%}
     </a>
 
@@ -19,14 +19,22 @@
   <nav class="flex-column flex-grow-1 w-100 ps-0">
     <ul class="nav">
       <!-- home -->
-      <li class="nav-item{% if page.layout == 'home' %}{{ " active" }}{% endif %}">
+      <li class="nav-item{% if page.url == '/' | relative_url %}{{ " active" }}{% endif %}">
         <a href="{{ '/' | relative_url }}" class="nav-link">
           <i class="fa-fw fas fa-home"></i>
           <span>{{ site.data.locales[include.lang].tabs.home | upcase }}</span>
         </a>
       </li>
+      <!-- blog -->
+      <li class="nav-item{% if page.url == '/blog/' | relative_url %}{{ " active" }}{% endif %}">
+        <a href="{{ '/blog/' | relative_url }}" class="nav-link">
+          <i class="fa-fw fas fa-pen"></i> 
+          <span>BLOG</span>
+        </a>
+      </li>
       <!-- the real tabs -->
       {% for tab in site.tabs %}
+        {% if tab.url == '/' | relative_url %}{% continue %}{% endif %}
         <li class="nav-item{% if tab.url == page.url %}{{ " active" }}{% endif %}">
           <a href="{{ tab.url | relative_url }}" class="nav-link">
             <i class="fa-fw {{ tab.icon }}"></i>
