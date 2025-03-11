@@ -6,7 +6,7 @@ title:
 permalink: /
 ---
 
-Hi there! I’m **Yi Jiacai** (蚁佳才), a PhD candidate dedicated to revolutionizing drug discovery through the power of artificial intelligence. My research focuses on **leveraging AI to accelerate drug design**, where I develop computational tools and machine learning models to streamline the identification, optimization, and development of new drug.  
+Hi there! I’m **Jiacai Yi** (蚁佳才), a PhD candidate dedicated to revolutionizing drug discovery through the power of artificial intelligence. My research focuses on **leveraging AI to accelerate drug design**, where I develop computational tools and machine learning models to streamline the identification, optimization, and development of new drug.  
 
 But my curiosity doesn’t stop at science. I’m also deeply fascinated by **Yijing (The Book of Changes)**, an ancient Chinese philosophy that explores the dynamic balance of the universe. To me, Yijing is like a timeless algorithm—a system of patterns and principles that offers profound insights into the interconnectedness of life. Whether I’m decoding molecular structures or interpreting hexagrams, I find joy in uncovering hidden patterns and making sense of complexity. 👀
 
@@ -23,6 +23,8 @@ Feel free to reach out if you’d like to collaborate, discuss ideas, or just ch
 🎓 Google Scholar: [Google Scholar](https://scholar.google.com.hk/citations?user=jkrVys8AAAAJ)
 
 😄 Pronouns: Mr. Ant.
+
+📢 WeChat Official Accounts: `MindDance`
 
 ## Representative Work
 
