@@ -24,9 +24,9 @@ Feel free to reach out if you’d like to collaborate, discuss ideas, or just ch
 
 😄 Pronouns: Mr. Ant.
 
-📢 WeChat Official Accounts: `MindDance`
+📢 My WeChat Official Accounts: `MindDance`
 
-## Representative Work
+## ✨Representative Work
 
 1. [<strong style="color: #05A6F0">Nat. Protoc.</strong>] Jiacai Yi: *<u>OptADMET: a web-based tool for substructure modifications to improve ADMET properties of lead compounds</u>*. <span style="color: #81BC06">Nature Protocols</span>. (SCI Ⅰ) (Published in January 2024)
 2. [<strong style="color: #05A6F0">Nucleic Acids Res.</strong>] Jiacai Yi#: *<u>ADMETlab 3.0: an updated comprehensive online ADMET prediction platform enhanced with broader coverage, improved performance, API functionality and decision support</u>*. <span style="color: #81BC06">Nucleic Acids Research</span>. (SCI Ⅱ) (Published in April 2024)
@@ -34,3 +34,20 @@ Feel free to reach out if you’d like to collaborate, discuss ideas, or just ch
 4. [<strong style="color: #05A6F0">Nucleic Acids Res.</strong>] Jiacai Yi#: *<u>DDInter 2.0: an enhanced drug interaction resource with expanded data coverage, new interaction types, and improved user interface</u>*. <span style="color: #81BC06">Nucleic Acids Research</span>. (SCI Ⅱ) (Published in August 2024)
 5. [<strong style="color: #05A6F0">Nucleic Acids Res.</strong>] Jiacai Yi#: *<u>ADMETlab 2.0: an integrated online platform for accurate and comprehensive predictions of ADMET properties</u>*. <span style="color: #81BC06">Nucleic Acids Research</span>. (SCI Ⅱ) (Published in April 2021)
 6. [<strong style="color: #05A6F0">Briefings Bioinf.</strong>] Jiacai Yi: *<u>ChemMORT: an automatic ADMET optimization platform using deep learning and multi-objective particle swarm optimization</u>*. <span style="color: #81BC06">Briefings in Bioinformatics</span>. (SCI Ⅱ) (Published in February 2024)
+
+## 💻Developed Software
+
+1. [<strong style="color: #05A6F0">ADMETlab 3.0</strong>] https://admetlab3.scbdd.com/
+2. [<strong style="color: #05A6F0">ADMETlab 2.0</strong>] https://admetmesh.scbdd.com/
+3. [<strong style="color: #05A6F0">ChemFH</strong>] https://chemfh.scbdd.com/
+4. [<strong style="color: #05A6F0">DDInter 2.0</strong>] https://ddinter2.scbdd.com/
+5. [<strong style="color: #05A6F0">DDInter</strong>] https://ddinter.scbdd.com/
+6. [<strong style="color: #05A6F0">ChemMORT</strong>] https://cadd.nscc-tj.cn/deploy/chemmort/
+7. [<strong style="color: #05A6F0">OptADMET</strong>] https://cadd.nscc-tj.cn/deploy/optadmet/
+
+## 🔥News
+
+- 2024.10 入选首届中国科协青年人才托举工程博士生专项计划
+- 2024.08 湖南省优秀硕士学位论文
+- 2024.01 One paper has been accepted by Nature Protocols (Nat. Protoc.)
+- ...
