@@ -6,13 +6,13 @@ title:
 permalink: /
 ---
 
-Hi there! I’m **Jiacai Yi** (蚁佳才), a PhD candidate dedicated to revolutionizing drug discovery through the power of artificial intelligence. My research focuses on **leveraging AI to accelerate drug design**, where I develop computational tools and machine learning models to streamline the identification, optimization, and development of new drug.  
+Hi there! I’m **Jiacai Yi** (蚁佳才), a PhD candidate dedicated to revolutionizing **drug discovery** through the power of artificial intelligence. 
 
-But my curiosity doesn’t stop at science. I’m also deeply fascinated by **Yijing (The Book of Changes)**, an ancient Chinese philosophy that explores the dynamic balance of the universe. To me, Yijing is like a timeless algorithm—a system of patterns and principles that offers profound insights into the interconnectedness of life. Whether I’m decoding molecular structures or interpreting hexagrams, I find joy in uncovering hidden patterns and making sense of complexity. 👀
+Beyond science, I’m fascinated by the **Yijing (The Book of Changes)**, an ancient Chinese philosophy that explores the dynamic balance of the universe. I see it as a timeless algorithm, offering insights into interconnectedness—whether I’m decoding molecular structures or interpreting hexagrams, I enjoy uncovering hidden patterns and making sense of complexity. 👀
 
-Whether you’re a fellow researcher, a curious student, or just someone fascinated by the power of AI, I’m glad you’re here. Let’s connect and explore the future of AI4Drug—and the mysteries of the universe— together!  🚀
+![TaiJi](/assets/img/about/taiji.png){: .light .w-75 .shadow .rounded-20 w='972' h='589' }
 
-Feel free to reach out if you’d like to collaborate, discuss ideas, or just chat about the wonders of science and philosophy. After all, the best discoveries often start with a conversation.
+Let’s connect! Whether you’re a researcher, student, or curious mind, I’d love to collaborate, share ideas, or discuss the wonders of science and philosophy. After all, great discoveries often start with a conversation. 🚀
 
 📫 Changsha - Hunan - China
 
