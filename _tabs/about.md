@@ -6,13 +6,13 @@ title:
 permalink: /
 ---
 
-Hi there! I’m **Jiacai Yi** (蚁佳才), a PhD candidate dedicated to revolutionizing **drug discovery** through the power of artificial intelligence. 
+Hi there! I'm **Jiacai Yi** (蚁佳才), a PhD candidate dedicated to revolutionizing **drug discovery** through the power of artificial intelligence. 
 
-Beyond science, I’m fascinated by the **Yijing (The Book of Changes)**, an ancient Chinese philosophy that explores the dynamic balance of the universe. I see it as a timeless algorithm, offering insights into interconnectedness—whether I’m decoding molecular structures or interpreting hexagrams, I enjoy uncovering hidden patterns and making sense of complexity. 👀
+Beyond science, I'm fascinated by the **Yijing (The Book of Changes)**, an ancient Chinese philosophy that explores the dynamic balance of the universe. I see it as a timeless algorithm, offering insights into interconnectedness—whether I'm decoding molecular structures or interpreting hexagrams, I enjoy uncovering hidden patterns and making sense of complexity. 👀
 
 ![TaiJi](/assets/img/about/taiji.png){: .light .w-75 .shadow .rounded-20 w='972' h='589' }
 
-Let’s connect! Whether you’re a researcher, student, or curious mind, I’d love to collaborate, share ideas, or discuss the wonders of science and philosophy. After all, great discoveries often start with a conversation. 🚀
+Let's connect! Whether you're a researcher, student, or curious mind, I'd love to collaborate, share ideas, or discuss the wonders of science and philosophy. After all, great discoveries often start with a conversation. 🚀
 
 📫 Changsha - Hunan - China
 
